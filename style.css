@@ -380,10 +380,3 @@ body {
     margin-left: 7px;
     color: #eee;
 }
-@media  screen and (max-width:720px) {
-    body {
-        background: #fff;
-        letter-spacing: 0.5px;
-        color: #0000;
-    }
-}
